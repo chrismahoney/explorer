@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.11.1"
 
-set :application, "explorer"
-set :repo_url, "git@github.com:bitquery/explorer.git"
+set :application, "l1-web-explorer-bitquery"
+set :repo_url, "git@github.com:chrismahoney/explorer.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp

@@ -33,7 +33,6 @@ gem 'exception_notification'
 gem 'exception_notification-rake', '~> 0.3.1'
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
